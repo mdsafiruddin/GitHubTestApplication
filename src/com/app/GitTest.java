@@ -8,6 +8,9 @@ public class GitTest {
 	private int size;
 	private int capacity;
 	
+	
+	// hello my dear buddy
+	
 	public GitTest() {
 		super();
 	}
