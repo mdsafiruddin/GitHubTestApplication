@@ -1,0 +1,4 @@
+class Employee {
+private int eid;
+private String empname;
+private double sal;
