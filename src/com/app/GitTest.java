@@ -5,7 +5,8 @@ public class GitTest {
 	private int gid;
 	private String hubName;
 	private String hubLoc;
-	
+	private int size;
+	private int capacity;
 	
 	public GitTest() {
 		super();
