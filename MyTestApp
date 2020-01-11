@@ -4,4 +4,6 @@ private String empname;
 private double sal;
 private String loc;
 private String desg;
-
+private String address;
+private String dept;
+private String gender;
